@@ -21,6 +21,7 @@ public class UseArrayList {
         arrList.add(90);
         arrList.add(500);
         arrList.add(1250);
+        arrList.add(500);
 
         List list =  arrList;
 
